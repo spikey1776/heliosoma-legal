@@ -1,1 +1,1 @@
-# heliosoma-legal
+# AuraSync Legal Policy Registry
